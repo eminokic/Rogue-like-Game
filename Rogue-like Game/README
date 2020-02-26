@@ -1,0 +1,2 @@
+A straightforward dungeon generator that utilizes Dijkstra's algorithm for pathing of specific monsters and pseudo-random room and monster generation. Implemented two extra terrians (water & lava). I then later added ranged and maged attacks with their own animation. Currently, the only ranged attack macro can be used pressing"s". 
+
